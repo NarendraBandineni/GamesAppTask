@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-mergeDebugResources-48:\\layout\\fragment_all_articles.xml",
+        "source": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-main-51:\\layout\\fragment_all_articles.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-mergeDebugResources-48:\\layout\\fragment_detail_page.xml",
+        "source": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-main-51:\\layout\\fragment_detail_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-mergeDebugResources-48:\\layout\\article_layout.xml",
+        "source": "C:\\Users\\sudhe\\.gradle\\daemon\\7.3.3\\com.example.gamesappnewtask.app-main-51:\\layout\\article_layout.xml"
+    },
+    {
+        "merged": "com.example.gamesappnewtask.app-mergeDebugResources-48:/layout/article_layout.xml",
+        "source": "com.example.gamesappnewtask.app-main-51:/layout/article_layout.xml"
+    }
+]
